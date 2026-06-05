@@ -2455,6 +2455,14 @@
     "isEnabledAll": true
   },
   {
+    "appName": "二狗",
+    "packageName": "com.jstd.seconddog",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAADg4OYbkt3OAAAAAXRSTlMAQObYZgAAAPRJREFUKM+N0LFuwyAQBuCLLJVuvEBVXqFjBwtey4Nlp2/mrY9Rto5lZEC9/Py2iZIoShB3+qQzhzl5tMxRDpGyUUyiXBKbqZDFFWouElaNk0yeKl7GVdlhVxyy003JarJHymikugiZheq+llU1UVvhUmxQZa+Uqnh5laMy4r3JU0PTiOhXMT7kVXpqwClPFfHUAIWz2DWj7jd9Tm/iKJnkVn2TPC12Hij+yz0x+6bQ3us4lyrL+aUqDrHK8JNYC4qkC4W3UUaxqO6n6Rv4pWLQYqjzRewCISs2Natuck0G+INY/rcQl593BaV4SHaVprjrBXECPt+Mn8wX5Q0AAAAASUVORK5CYII=",
+    "contributorName": "zxl",
+    "isEnabled": true,
+    "isEnabledAll": true
+  },
+  {
     "appName": "优智云家",
     "packageName": "com.kiwik.usmartgo",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAXVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9RKvvlAAAAHnRSTlMAWrCepYz4mILVPwkEq3htUvEvvTcaEONhJetE3MmaekxAAAABzklEQVRYw+3Y2ZKjIBSA4WMggKjgGjXLef/HnOqpnkyzihTVV/lvk3yCHpKqwKdPAJpw1e9wqpvchNjA7IJf3UnfpiGt5DV+xX3QX0vcEtaiVkSMQ4iDaA5WowbEGPSunmPOXCMmQsh02NHMeCtxIDMRcjjiAZQmcTwL4eZzFJ6H2O46EjMgfDlOs2ZBWNmQwDyotud5yIRQWhOEnugh5E7tlA09zZ2xbAhv5rPPh2bzFuVDvTHVeZA7SdffhWgpiORCnQWJUtBWChpLQe1QCIKuFNSXgto1D7qAnS4FtXUhCGZWCAIdh3j8rEWvWR1/QXDLaOwT50IvLyQsaPmepnsQagYv1FvQ+A+kIahHb7u9ovFNdswLdV5nBTv1A9UTc6CdeSHuQqMxnWMlCJ0e1s+sm3SgpW4gUuV3anAjNOJI5oc2cFsYb0POOAQW5P2EwC6wuz7g4Pse2sf/6Xul4RiIRDZAR5vRa8h5mhuwh3eqlv/K43rHUPcdgunvS1GhNi3IxDAckxBJYWqDhGgVS3PWGQ6a1xRnWuCwGz1kmGohJVnHncsOibVVhJpmONODMu/sXHc4W9MTc13sdY088uO/CAihhHBVzQ18+hToD9TZ6CUJcnwcAAAAAElFTkSuQmCC",
