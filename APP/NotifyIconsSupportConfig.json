@@ -2463,6 +2463,14 @@
     "isEnabledAll": true
   },
   {
+    "appName": "千问",
+    "packageName": "com.aliyun.tongyi",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAYFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////98JRy6AAAAH3RSTlMAwPUVQOKAMSee/A/q0lgHd22TyGI82q+KHASmUEy5UEXfNgAAAfBJREFUWMO9l22TgjAMhAWsvBQQEFEEzP//l3fO6JVzbVLam3s+Yidid7OJu3+gohdzUJ2WflDHgDq6JEMTUKijFXHiXScraE3uXSii36SedWp64+RX56jondqr0IGAMkJGqc4YE8MGCS7EsEGCM7lykprMmVpqMhm5C3VMGzjYC+Uk4diFimScgqH5qze6qbA7Msz+qunDixoihKe2pWGRPUJtu7MxDaNNDkiZNFy+HyR+3b/QmuHxqI+cSBi5A0ZPI1tMxtxH+Oi5ilogyf6FXl81ELkPvQ6eMn5leygFOwq5hzKjtzump2WZa1hgGAtwMqsjm/YTE8XM21cbLJDC24/sRKxshU5w9MLP6F7adwxn8/GIFiiPwr5jqPhGuUr7jqFdfRNaoBht0rNu6cl+iYbJISor7hKN9HJ4pw4WqJzGycRcIvx8oGaPlRr+VNiYeId0QpYaUt4hRcbmliGXNuK726obJ+KxxWnVbeWNeGClN4fkYy2EH+Nc7lisN0i/G6RtsyNgiJ7cE9EiZvUqGKGYvAJPRgQ0coJil8wEqBs7zpHesjAv8r9qTJKGcTzSWXsxiZkeRHRp68VcGgzyfavk89Zd6sDd0CjgRYMB7cdNgQKezKCALxE0mScZBJQv+ac0DLTAfhdEtn9iVewLcg8kSk5JRfoAAAAASUVORK5CYII=",
+    "contributorName": "zxl",
+    "isEnabled": true,
+    "isEnabledAll": true
+  },
+  {
     "appName": "优智云家",
     "packageName": "com.kiwik.usmartgo",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAXVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9RKvvlAAAAHnRSTlMAWrCepYz4mILVPwkEq3htUvEvvTcaEONhJetE3MmaekxAAAABzklEQVRYw+3Y2ZKjIBSA4WMggKjgGjXLef/HnOqpnkyzihTVV/lvk3yCHpKqwKdPAJpw1e9wqpvchNjA7IJf3UnfpiGt5DV+xX3QX0vcEtaiVkSMQ4iDaA5WowbEGPSunmPOXCMmQsh02NHMeCtxIDMRcjjiAZQmcTwL4eZzFJ6H2O46EjMgfDlOs2ZBWNmQwDyotud5yIRQWhOEnugh5E7tlA09zZ2xbAhv5rPPh2bzFuVDvTHVeZA7SdffhWgpiORCnQWJUtBWChpLQe1QCIKuFNSXgto1D7qAnS4FtXUhCGZWCAIdh3j8rEWvWR1/QXDLaOwT50IvLyQsaPmepnsQagYv1FvQ+A+kIahHb7u9ovFNdswLdV5nBTv1A9UTc6CdeSHuQqMxnWMlCJ0e1s+sm3SgpW4gUuV3anAjNOJI5oc2cFsYb0POOAQW5P2EwC6wuz7g4Pse2sf/6Xul4RiIRDZAR5vRa8h5mhuwh3eqlv/K43rHUPcdgunvS1GhNi3IxDAckxBJYWqDhGgVS3PWGQ6a1xRnWuCwGz1kmGohJVnHncsOibVVhJpmONODMu/sXHc4W9MTc13sdY088uO/CAihhHBVzQ18+hToD9TZ6CUJcnwcAAAAAElFTkSuQmCC",
