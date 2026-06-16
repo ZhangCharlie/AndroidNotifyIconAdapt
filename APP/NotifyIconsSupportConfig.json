@@ -2455,6 +2455,14 @@
     "isEnabledAll": true
   },
   {
+    "appName": "住这儿",
+    "packageName": "com.vanke.activity",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAMAAAC7xnO3AAAAZlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Vn2moAAAAIXRSTlMA1v35rc3ybGdiGeGh2qbrQQ7RkIZ2Kh/EsbxZCU+afzjWyM8EAAACY0lEQVRIx+2X27qqIBSFYXJSyMxTmmWH93/JDQEuBXHv+r51t8dNCfzMOUFGhNLKKaM5+kIHbHT4HMywVfYxSR1JPyaZI9n3MX+zzisraLV4Pr7BI1o2FXUXgxfQIqdFi6A1FYvnJwGtqO4JwKEpneAFRmHUERx6TYAdvF5vtA43AZz4vd/gzsyDoIKuFlwyoOpHyErKyUvrPeaIApW2S8u8rdcfWE53TMgckt+ifPSsFubYaDi0Qoj2PurvSoOOJOeAs6hjFQ6kbJeJqMFYOTiUhGQJHpzQpkbi2CIguW0nqkHbkpzAewwPSLuwHDOJEroT8mYhIMFwOpEOpVQxpUodOEi3AFKaz1qipFo3tMsbyuzBvjRZ7ia6o7RO2Oph65ZydVSnHfJW4/hUosaRUbIZZTRbe8iwPrq2cQzHH5ZRWmxVxWbmrffoH3JsJawPuKd+WYIvfjUinz3uYprnec7LvXJt3TJ1TGdfra2NbZBylVXtffj7mB/U2a7rTKzt7e9ru7+fceM8PlC1+w71//DedqY82T97WS2WLbLiePbi0R0GbDUcH0IVvrb0+TQYh1fgYcaBylLtpCs0Z7wIithNgBAy7oTksGV+2sUt+0w5gnXk2MEwOBQnFpYDWGMtQ5J7E9+0zTMHR5KIxODR6wZIPAjELC1thJgy0dLaujxACuVgZBcCN6cfU7idWoYxmROSAdiYDtvFadhZ5YMCr0vQyeaQQ7+1YV3pSbV5T9Bg6hfgyR3Jwi2xJKTvJtKheXQpBS2+dx+SpS8zjDqyBu3fwdphnP7fb6M6f+G/w9f/V/4ACs8sWFZpUEYAAAAASUVORK5CYII=",
+    "contributorName": "zxl",
+    "isEnabled": true,
+    "isEnabledAll": true
+  },
+  {
     "appName": "二狗",
     "packageName": "com.jstd.seconddog",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAADg4OYbkt3OAAAAAXRSTlMAQObYZgAAAPRJREFUKM+N0LFuwyAQBuCLLJVuvEBVXqFjBwtey4Nlp2/mrY9Rto5lZEC9/Py2iZIoShB3+qQzhzl5tMxRDpGyUUyiXBKbqZDFFWouElaNk0yeKl7GVdlhVxyy003JarJHymikugiZheq+llU1UVvhUmxQZa+Uqnh5laMy4r3JU0PTiOhXMT7kVXpqwClPFfHUAIWz2DWj7jd9Tm/iKJnkVn2TPC12Hij+yz0x+6bQ3us4lyrL+aUqDrHK8JNYC4qkC4W3UUaxqO6n6Rv4pWLQYqjzRewCISs2Natuck0G+INY/rcQl593BaV4SHaVprjrBXECPt+Mn8wX5Q0AAAAASUVORK5CYII=",
